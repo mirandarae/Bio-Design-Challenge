@@ -10,13 +10,13 @@ I'll be honest - I am completely new to all things Bio Design. But regardless, I
 
 The central work in the Natural History of the Enigma is a ‘plantimal’, a new life form created by Eduardo Kac that he calls Edunia, a    genetically engineered flower that is a hybrid of the artist and Petunia. The Edunia expresses Kac’s DNA (specifically, the isolated gene responsible for the identification of foreign entities culled from his blood) exclusively in its red veins. The new flower was invented by and produced by the artist through molecular biology. It is not found in nature.
 
-
+///
 
 - Grabbing at Newer Vegetables (Anicka Yi, 2015)
 
 Pioneering what she terms a “biopolitics of the senses,” Yi’s emphasis on olfaction aims to decentralize and hack our perceptual bias toward vision and make us aware of our most primordial and reflexive sense—scent. Part of the brain’s ancient limbic system, our olfactory receptors are deeply embedded with neurological systems that process our memories, moods, and behaviors. Scent and its profound relationship to identity and subjectivity forms the basis of this work which incorporated bacterial samples from 100 women that were then, with the help of M.I.T. synthetic biologist Tal Danino, synthesized into a single strand of bacteria. Yi used this literal culture of women as paint, applied onto an agar canvas. The odor permeating from this installation was quite powerful, literally and in concept, as the installation has served a deeply feminist affront to cultural biases held toward bodily odors.
 
-
+///
 
 - Victimless Leather (Tissue Culture and Art Project, 2004)
 
