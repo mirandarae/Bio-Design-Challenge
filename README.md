@@ -1,4 +1,4 @@
-# Spring 2019 Bio Design
+# Spring 2019 Bio Art & Design
 Hi, everyone! My name is Miranda Chun and I am a third-year photography and liberal arts student at UNM. Here I have established the soon-to-be home for all documentation of my soon-to-be work as a burgeoning Bio Artist. 
 
 I'll be honest - I am completely new to all things Bio Design. 
