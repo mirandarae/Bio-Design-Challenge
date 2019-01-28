@@ -3,6 +3,11 @@
 Welcome, everyone! My name is Miranda Chun, I am in my third year as a photography and liberal arts student at UNM, and I'll be honest - I am completely new to all things Bio Design. But regardless, I'm fascinated! My interests in this early phase of the semester are geared  especially towards research and explorations within the realm of materials. As an art student, I am intrigued with the notion of producing hands-on work which innovates sustainably and self-sufficiently. My ultimate objective in this regard is to discover uses for materials in both creation and daily life which lessen the burden of humanity on our world and do so elegantly. I am particularly excited to delve into the use of biological materials - to create work which is alive, from life itself.
 
 
+# Current Work & Perspective
+
+My most recent photographic explorations confront themes of transience and thresholds of perception, and in the process reference the resultant atavistic associations we develop. With minds and bones which conform to our surroundings, we, throughout the world and throughout time, are at once separate and unified. From this paradox arises within me a constant impetus to discover new representations which act less to depict and more to investigate, whether by way of a silver gelatin portrayal or a cameraless attempt to capture the essence of a fleeting identity. 
+Darkroom materials have taken special precedence as my preferred creative agents in this regard, my present body of work being comprised largely of experimental approaches to uses of light, surface, fixity, and the photographic development process.
+
 
 # Projects of Interest
 
@@ -21,3 +26,18 @@ Pioneering what she terms a “biopolitics of the senses,” Yi’s emphasis on 
 - Victimless Leather (Tissue Culture and Art Project, 2004)
 
 This ‘victimless leather’ is grown inside a custom made perfusion chamber (an automatic dripping system which drips into the polymers and feeds the cells) from immortalised cell lines which are cultured and form a living layer of tissue supported by a biodegradable polymer matrix in the form of a miniature stitch-less coat-like shape. Growing the material problematizes the concept of garment by making it semi-living. As such, the project is intended to confront people with the moral implications of wearing parts of dead animals for protective and aesthetic reasons and confronts notions of relationships with manipulated living systems. 
+
+
+
+
+# Media of Interest
+
+-Tissues
+-DNA
+-Cultures
+-Microorganisms
+-Bodily Secretions
+-Natural Pigments
+-Natural Proteins
+-Light-Sensitive Agents (& Light as a Catalyst)
+-Sound
