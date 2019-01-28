@@ -40,4 +40,5 @@ This ‘victimless leather’ is grown inside a custom made perfusion chamber (a
 -Natural Pigments
 -Natural Proteins
 -Light-Sensitive Agents (& Light as a Catalyst)
+-Sculptural Elements
 -Sound
