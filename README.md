@@ -29,6 +29,12 @@ This ‘victimless leather’ is grown inside a custom made perfusion chamber (a
 
 
 
+- Bacteriography (Zachary Copfer, 2011)
+
+During his graduate research, microbiologist-turned-artist Zachary Copfer invented a new medium that combines photographic processes with microbiological practices, and coined the process bacteriography. Bacteriography consists of shooting radiation through a negative on to a petri dish covered with bacteria. The end product is a plate of bacteria that have grown to form a photographic image. The process essentially mirrors darkroom photography - the enlarger has been replaced by a radiation source and instead of photo sensitive paper this process uses a petri dish coated with a living bacterial emulsion.
+
+
+
 
 # Media of Interest
 
