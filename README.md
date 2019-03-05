@@ -2,6 +2,11 @@
 
 Welcome, everyone! My name is Miranda Chun, I am in my third year as a photography and liberal arts student at UNM, and I'll be honest - I am completely new to all things Bio Design. But regardless, I'm fascinated! My interests in this early phase of the semester are geared  especially towards research and explorations within the realm of materials. As an art student, I am intrigued with the notion of producing hands-on work which innovates sustainably and self-sufficiently. My ultimate objective in this regard is to discover uses for materials in both creation and daily life which lessen the burden of humanity on our world and do so elegantly. I am particularly excited to delve into the use of biological materials - to create work which is alive, from life itself.
 
+# BDC Proposal
+
+My concept for the Bio Design Challenge, titled "Homage to an Ideal," is essentially to design a garden installation comprised of flowers implanted with human scent compounds, derived from sentimental objects (most likely clothing) of romantic partners. The project will evoke the relationship between olfaction and love, and explore a parallel between human and botanical biological systems. 
+The basic methodology I propose is to isolate chemical compounds from the samples of participants and to use bacteria to implant human DNA into the area of the flowers' genome responsible for scent production. With regards to documentation, as the plants will take time to grow, the work will displayed in a "work in progress" format within the context of the Bio Design Challenge. Cultures will be photographed at regular intervals, as will the plants along their progression. Information about each participant, on scientific and personal levels, will be collected and considered alongside the progress of the project. Photographic representations of participants will serve as an artistic element of the installation, as will the scented articles themselves.
+
 # 3D Print
 
 Recently added in this repository is a collection of screenshots taken of a simple 3D print I devised for this class. The resultant model is designed to attach to the back of a cell phone and hold earbuds securely in place for easy access and use. It measures 2.5"x3".
