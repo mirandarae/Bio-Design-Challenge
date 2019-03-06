@@ -5,15 +5,21 @@ Welcome, everyone! My name is Miranda Chun, I am in my third year as a photograp
 # BDC Proposal
 
 My concept for the Bio Design Challenge, titled "Homage to an Ideal," is essentially to design a garden installation comprised of flowers implanted with human scent compounds, derived from sentimental objects (most likely clothing) of romantic partners. The project will evoke the relationship between olfaction and love, and explore a parallel between human and botanical biological systems. 
-The basic methodology I propose is to isolate chemical compounds from the samples of participants and to use bacteria to implant human DNA into the area of the flowers' genome responsible for scent production. With regards to documentation, as the plants will take time to grow, the work will displayed in a "work in progress" format within the context of the Bio Design Challenge. Cultures will be photographed at regular intervals, as will the plants along their progression. Information about each participant, on scientific and personal levels, will be collected and considered alongside the progress of the project. Photographic representations of participants will serve as an artistic element of the installation, as will the scented articles themselves.
+The basic methodology I propose is to isolate chemical compounds from the samples of participants and to use CRISPR technology to implant human DNA into the area of the flowers' genome responsible for scent production. With regards to documentation, as the plants will take time to grow, the work will displayed in a "work in progress" format within the context of the Bio Design Challenge. Cultures will be photographed at regular intervals, as will the plants along their progression. Information about each participant, on scientific and personal levels, will be collected and considered alongside the progress of the project. Photographic representations of participants will serve as an artistic element of the installation, as will the scented articles themselves.
+Recently attached to this repository are images detailing my inspiration for the project, including documentation of Eduardo Kac's 2003-2008 creation of his Edunia flower, as well as a PDF file of the beginnings of my research into pheromone functionality in the human body.
+
 
 # Neurobiology Lab Visit
 
 To gain insight into the field of neuroimaging I visited the lab of Dr. Mubarak Syed, who examines developmental neural processes in flies (Drosophila). These organisms are efficient analogs for gaining further understanding of how the human brain functions, and so Dr. Syed's research focuses on the physical dissection and behavior analysis of Drosophila, as well as the production and study of neural imagery, which details mitosis and gene expression within fly brains and allows for comparative analysis with the functionality of the human brain. His essential methodology consists of inducing Drosophila to sleep with carbon dioxide, allowing for microscopic examination of the organisms' brain activity. The flies are then dissected and their brains subjected to neural imaging technology under a confocal microscope, which allows for three-dimensional views of their neural structures, and using fluorescent proteins which color-code specific neurons. Newly attached to this repository is a series of example Drosophila neural imagery produced by Dr. Syed's research.
 
+
 # 3D Print
 
-Recently added in this repository is a collection of screenshots taken of a simple 3D print I devised for this class. The resultant model is designed to attach to the back of a cell phone and hold earbuds securely in place for easy access and use. It measures 2.5"x3".
+Recently added in this repository is a collection of screenshots taken of a simple 3D print I devised for this class using the computer program SketchUp. To accomplish my objective design, I used this software to mock up a figure prototyping my central concept of an earbud holder. The resultant model is designed to attach to the back of a cell phone and hold earbuds securely in place for easy access and use. It measures 2.5"x3" and is flexible due to my usage of the "ninja flex" filament.
+
+The model produced in the context of this project, though dimensionally correct and valid in its basic form, is merely speculative. Given greater time and resources, the premise guiding this specific project will ideally expand to include a variety of forms, and I will 3D scan the shapes of a diverse selection of earbud shapes to implement into this basic design.
+
 
 # Current Work & Perspective
 
