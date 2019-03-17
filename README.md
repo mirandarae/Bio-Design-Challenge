@@ -2,6 +2,16 @@
 
 Welcome, everyone! My name is Miranda Chun, I am in my third year as a photography and liberal arts student at UNM, and I'll be honest - I am completely new to all things Bio Design. But regardless, I'm fascinated! My interests in this early phase of the semester are geared  especially towards research and explorations within the realm of materials. As an art student, I am intrigued with the notion of producing hands-on work which innovates sustainably and self-sufficiently. My ultimate objective in this regard is to discover uses for materials in both creation and daily life which lessen the burden of humanity on our world and do so elegantly. I am particularly excited to delve into the use of biological materials - to create work which is alive, from life itself.
 
+# BDC Proposal UPDATE
+
+As I have progressed further in the process of generating a bio art project, I am deciding to shift the overall premise of my proposal to a photography-based installation. I am now planning to utilize the light-sensitivity of chlorophyll to impart photographic images onto plant matter in the creation of an aromatic exhibition exploring themes of sensory memory and the relationship between life and death. I have photographed individuals I know personally who have experienced loss with articles of clothing left behind by their late loved ones, each within natural, outdoor spaces which carry meaning to their respective relationships with those who have passed. From these environments I will obtain the plant material upon which these images will be printed. 
+The process is as follows:
+#
+TO EXPOSE - (1) clean surface of leaf. (2) fit to frame. (3) place negative and leaf in frame. (4) expose to sulight until clear areas of the negative appear yellow. 
+TO FIX - (1) 5g copper sulfate, 1L distilled water. (2) wash leaf in solution for three minutes. (3) wax leaf.
+#
+The resultant prints will be framed with floral elements which carry symbolic meaning for each of my subjects with regards to their personal feelings/experiences. The articles of clothing featured will be hung alongside the prints to further illustrate the explored interrelationship between objectivity, olfaction, and memory.
+
 # BDC Proposal
 
 My concept for the Bio Design Challenge, titled "Homage to an Ideal," is essentially to design a garden installation comprised of flowers implanted with human scent compounds, derived from sentimental objects (most likely clothing) of romantic partners. The project will evoke the relationship between olfaction and love, and explore a parallel between human and botanical biological systems. 
