@@ -48,6 +48,7 @@ Recently added in this repository is a collection of screenshots taken of a simp
 
 The model produced in the context of this project, though dimensionally correct and valid in its basic form, is merely speculative. Given greater time and resources, the premise guiding this specific project will ideally expand to include a variety of forms, and I will 3D scan the shapes of a diverse selection of earbud shapes to implement into this basic design.
 
+![alt text](https://github.com/mirandarae/mirandachun/blob/master/3D_Print.JPG)
 
 # Current Work & Perspective
 
