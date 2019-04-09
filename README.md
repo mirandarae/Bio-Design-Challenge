@@ -11,6 +11,7 @@ Exposures are currently in progress, as the chlorophyll printing process typical
 My current body of work in this regard consists of in progress documentation, but I hope to display a series of at least ten printed organic materials in frames within the context of this project.
 #
 Recently attached to this repository is a video presentation outlining my current progess.
+Link: https://www.youtube.com/watch?v=JKy4xEoONr4
 
 
 # BDC Proposal UPDATE
