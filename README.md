@@ -2,7 +2,7 @@
 
 Welcome, everyone! My name is Miranda Chun, I am in my third year as a photography and liberal arts student at UNM, and I'll be honest - I am completely new to all things Bio Design. But regardless, I'm fascinated! My interests in this early phase of the semester are geared  especially towards research and explorations within the realm of materials. As an art student, I am intrigued with the notion of producing hands-on work which innovates sustainably and self-sufficiently. My ultimate objective in this regard is to discover uses for materials in both creation and daily life which lessen the burden of humanity on our world and do so elegantly. I am particularly excited to delve into the use of biological materials - to create work which is alive, from life itself.
 
-# BDC Final Presentation - "Homage to an Ideal" (Revised)
+# BDC Final Presentation - "Homage" (Revised)
 
 In the context of this revised final project, I photographed two subjects I am close to with articles of clothing belonging to loved ones they have lost in natural environments which carry significance to their respective relationships with them, and am in the process of utilizing an organic alternative photography process based on light sensitivity of chlorophyll in leaves. I obtained leaves on which I am printing these images from these environments, and have been continuously exposing them to sunlight under positive transparencies of these portraits. 
 #
